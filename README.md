@@ -55,11 +55,14 @@ On frontend terminal perform:
 
 ## Website flow for User
 
-- Home page
-
 - log in / sign up page
+![](https://github.com/abhich21/latest-portfolio/blob/main/Screenshots/gymsharklogin.PNG)
+
+- Home page
+![](https://miro.medium.com/max/1400/1*t3eNB3GpXd1uEUt87oP1iA.png)
 
 - Category page
+![](https://github.com/abhich21/latest-portfolio/blob/main/Screenshots/gymsharkCategory.PNG)
 
 - search page
 
